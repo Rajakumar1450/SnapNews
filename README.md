@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# SnapNews
+NewsHive is your ultimate smart news companion designed to keep you informed and connected every moment. Get breaking headlines, trending updates, and in-depth global stories delivered in real time. With a sleek interface, personalized feeds, and lightning-fast updates, staying aware has never been this effortless.
+>>>>>>> 6a226a01919134af970207037d8e2a43479ea0cb
